@@ -1,0 +1,12 @@
+{
+  "nick_name": "麦子",
+  "date": [1],
+  "sess": [1],
+  "price": [1],
+  "real_name": 1,
+  "ticket_num": 2,
+  "viewer_person": [1,2],
+  "damai_url": "https://www.damai.cn/",
+  "target_url": "https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.42a64d15gOBWjQ&id=1032273971657&clicktitle=%E9%9F%B3%E4%B9%90%E5%89%A7%E3%80%8A%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD%E3%80%8B",
+  "driver_path": "chromedriver.exe"
+}
