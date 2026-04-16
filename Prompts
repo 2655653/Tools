@@ -2,4 +2,9 @@
 ## Claude Code使用便捷指令
 **【web-access skill】**帮我用web-access skill帮我找一下……；总结这篇文章【公众号文章链接】
 
-**【跳过询问】**Claude --dangerously-
+**【跳过询问】**Claude --dangerously-skip-permissions
+
+**【后台运行-终端】**
+tmux new -s classify_multi  # 创建一个叫 classify_multi 的会话对
+再去运行脚本，服务器后台运行，关闭服务器脚本运行不会受影响
+
